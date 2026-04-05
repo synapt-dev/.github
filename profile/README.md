@@ -14,7 +14,7 @@ Persistent memory and multi-repo coordination for AI agent teams.
 **[grip](https://github.com/synapt-dev/gitgrip)** — Multi-repo workspace orchestrator. Spawn agent teams, coordinate branches, manage gripspaces. 35 commands, 80+ subcommands.
 `Open source` `Rust CLI` `by synapt`
 
-**[premium](https://synapt.dev/premium)** — Persistent agents with career memory. Team sharing. Zero-knowledge cloud sync.
+**premium** — Persistent agents with career memory. Team sharing. Zero-knowledge cloud sync. *Coming soon.*
 `License key` `Local-first` `Offline capable`
 
 ---
